@@ -1,5 +1,13 @@
 # 🧠 Claude Code: Boas Práticas para Programação Agente
 
+<p align="center">
+  <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow" alt="Status">
+  <img src="https://img.shields.io/badge/language-Markdown-blue" alt="Linguagem">
+  <img src="https://img.shields.io/badge/docs-100%25-blue" alt="Documentação">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tiagonpsilva.genai-claude-code-best-practices" alt="Visitantes">
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
+</p>
+
 Este repositório contém explicações detalhadas e exemplos práticos dos conceitos fundamentais que todo desenvolvedor deve conhecer sobre o uso do Claude Code para programação agente.
 
 ## 📋 Índice de Conceitos
